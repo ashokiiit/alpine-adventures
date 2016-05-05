@@ -1,0 +1,6 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Ashok's Alpine Adventures"
+
+[Params]
+  Author = "Ashok vardhan Viswanadha"
